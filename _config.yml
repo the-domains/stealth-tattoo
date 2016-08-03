@@ -1,4 +1,3 @@
-layout_spectrum: 0.16283234348520637
 typography_spectrum: 0.9165609213523567
 color:
   brandStrength: 0.43556864163838327
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.16283234348520637
 name: Stealth Tattoo
 title: Stealth Tattoo Machine
+description: Affordable innovation for tattoo artists
