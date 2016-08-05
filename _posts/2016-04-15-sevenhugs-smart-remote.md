@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T12:56:40.923Z'
+datePublished: '2016-08-05T13:05:30.687Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -18,10 +18,12 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T12:56:39.893Z'
+dateModified: '2016-08-05T13:05:29.684Z'
 title: ''
 app_links: []
-publisher: {}
+publisher:
+  name: Stealth Tattoo
+  url: 'http://doxamsaigon.com'
 description: Stealth Rotary Machine II
 inLanguage: en
 inNav: false
