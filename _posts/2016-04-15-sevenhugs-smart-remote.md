@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T12:55:42.103Z'
+datePublished: '2016-08-05T12:56:40.923Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -18,11 +18,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T12:55:41.114Z'
-title: Sevenhugs' Smart Remote
+dateModified: '2016-08-05T12:56:39.893Z'
+title: ''
 app_links: []
 publisher: {}
-description: Stealth Rotary Machine II is the successor of the trustworthy Stealth Machine.
+description: Stealth Rotary Machine II
 inLanguage: en
 inNav: false
 starred: false
@@ -30,6 +30,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Stealth Rotary Machine II](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b230ee8-689d-44b3-bf2c-54e162b3a487.jpg)
+![Available in 7 colors.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e8ae807-0ed2-4ec6-87dc-c4c93e3ad039.jpg)
+
+Stealth Rotary Machine II
 
 Stealth Rotary Machine II is the successor of the trustworthy Stealth Machine.
