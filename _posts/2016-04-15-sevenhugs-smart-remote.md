@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T13:05:30.687Z'
+datePublished: '2016-08-05T13:07:07.428Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -18,13 +18,13 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:05:29.684Z'
-title: ''
+dateModified: '2016-08-05T13:07:06.030Z'
+title: Stealth Tattoo Machine Gen 2
 app_links: []
 publisher:
   name: Stealth Tattoo
   url: 'http://doxamsaigon.com'
-description: Stealth Rotary Machine II
+description: Stealth Rotary Machine II is the successor of the trustworthy Stealth Machine.
 inLanguage: en
 inNav: false
 starred: false
@@ -32,8 +32,12 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Stealth Tattoo Machine Gen 2
 ![Available in 7 colors.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e8ae807-0ed2-4ec6-87dc-c4c93e3ad039.jpg)
 
-Stealth Rotary Machine II
-
 Stealth Rotary Machine II is the successor of the trustworthy Stealth Machine.
+
+Specifications:
+
+* Aircraft Aluminum
+* 3 Strokes Available
