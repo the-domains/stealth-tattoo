@@ -1,15 +1,15 @@
-typography_spectrum: 0.5778622340876609
+typography_spectrum: 0.153995119035244
 color:
-  brandStrength: 0.7413201630115509
-  lightness: 0.11798173491843045
-  saturation: 0.40061576245352626
-  rhythmicContrast: 0.927049829158932
+  brandStrength: 0.6259716635104269
+  lightness: 0.1246773162856698
+  saturation: 0.8696618040557951
+  rhythmicContrast: 0.9937026591505855
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FEFEFE'
+    - '#2F2E33'
+    - '#C2C8C8'
+    - '#8E8D93'
+    - '#03619B'
 layout_spectrum: 0.16283234348520637
 name: Stealth Tattoo
 title: Stealth Tattoo
