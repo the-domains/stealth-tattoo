@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-05T13:07:07.428Z'
+datePublished: '2016-08-05T13:12:46.505Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
-hasPage: false
+hasPage: true
 keywords:
   - sevenhugs
   - remote
@@ -18,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-05T13:07:06.030Z'
+dateModified: '2016-08-05T13:12:44.505Z'
 title: Stealth Tattoo Machine Gen 2
 app_links: []
 publisher:
@@ -28,6 +27,7 @@ description: Stealth Rotary Machine II is the successor of the trustworthy Steal
 inLanguage: en
 inNav: false
 starred: false
+url: stealth-tattoo-machine-gen-2/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
