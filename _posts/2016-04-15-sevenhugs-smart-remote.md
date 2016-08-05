@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T15:43:31.243Z'
+datePublished: '2016-08-05T12:54:16.643Z'
 sourcePath: _posts/2016-04-15-sevenhugs-smart-remote.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/sevenhugs-smart-remote'
@@ -17,7 +17,8 @@ keywords:
   - pointing
 related: []
 author: []
-dateModified: '2016-08-03T15:43:30.495Z'
+via: {}
+dateModified: '2016-08-05T12:54:15.818Z'
 title: Sevenhugs' Smart Remote
 app_links: []
 publisher:
@@ -34,10 +35,9 @@ description: >-
   switching between apps.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Sevenhugs' Smart Remote</h1><p>Looking to simplify the endless number of apps and interfaces used to control smart-home products, French start-up Sevenhugs has introduced the first "contextually aware" universal Smart Remote. In other words, it's the first remote to understand where it is in your home and what it's pointing at, allowing users to simply point and click to control devices instead of switching between apps.</p><img src="http://assets.coolhunting.com/coolhunting/2016/01/14/large_sevenhugs.jpg" /></article>
+![Stealth Rotary Machine II](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b230ee8-689d-44b3-bf2c-54e162b3a487.jpg)
